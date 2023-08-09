@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sumitb007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumitb007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-bhamare-2258a4179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-bhamare-2258a4179/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-bhamare-2258a4179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-bhamare-2258a4179/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sumitb007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumitb007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sumitbhamare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitbhamare007" height="30" width="40" /></a>
 </p>
