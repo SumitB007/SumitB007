@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Bhamare</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer, ML and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitb007&label=Profile%20views&color=0e75b6&style=flat" alt="sumitb007" /> </p>
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 💬 Ask me about **Python, Flask, Django, SQL**
+- 💬 Ask me about **Python, Flask, Django, MySQL**
 
 - 📫 How to reach me **sumitbhamare007@gmail.com**
 
