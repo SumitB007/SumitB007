@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, Flask, Django, MySQL**
 
-- 📫 How to reach me **sumitbhamare007@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CF0abF1Bu-bYZDXcp53w7HbgoC88HTON/view?usp=sharing](https://drive.google.com/file/d/1CF0abF1Bu-bYZDXcp53w7HbgoC88HTON/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -49,7 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb007&show_icons=true&locale=en" alt="sumitb007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitb007&" alt="sumitb007" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&" alt="sumitb007" /> </p>
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumitB007" alt="SumitB007" /></a></p>
