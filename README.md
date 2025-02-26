@@ -15,6 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/sumit-bhamare-2258a4179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-bhamare-2258a4179/" height="30" width="40" /></a>
 <a href="https://codepen.io/sumitb007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumitb007" height="30" width="40" /></a>
+    <a href="mailto:sumitbhamare007@gmail.com?subject=Hello%20Sumit,%20From%20Github" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" alt="Sumit Bhamare - Gmail" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/sumitbhamare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitbhamare007" height="30" width="40" /></a>
 </p>
 
@@ -48,5 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb007&show_icons=true&locale=en" alt="sumitb007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitb007&" alt="sumitb007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitb007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&" alt="sumitb007" /> </p>
+
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumitB007" alt="SumitB007" /></a></p>
